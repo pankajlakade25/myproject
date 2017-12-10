@@ -34,3 +34,22 @@ nav a:hover{
 	background-color: #ddd;
 	color: red;
 }
+
+.landing
+{
+	text-align: center;
+	background-color: silver;
+	padding-top: 0px;
+	height: 100vh;
+}
+
+h2{
+	margin: 0px;
+	padding-top: 10px;
+}
+
+.container{
+	top: 45%;
+	left: 45%;
+	position: absolute;
+}
